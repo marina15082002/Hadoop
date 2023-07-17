@@ -18,3 +18,7 @@ _Le fichier choisit sur kaggle : https://www.kaggle.com/datasets/victorsoeiro/ne
 
 ### PowerPoint de présentation
 1. Se rendre sur le chemin suivant : Ppt_EcoHadoop.pptx
+
+### Statistiques
+1. Se rendre sur le chemin suivant : stats.py
+_La dernière stats peut produire une erreur_
