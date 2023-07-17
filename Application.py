@@ -356,7 +356,7 @@ class Application:
                 print("Invalid choice. Please choose a valid number or type 'q' to quit the application.")
 
     def start(self):
-        print("Welcome to Netflix Recommendation\n")
+        print("Welcome to ASKMOVIE\n")
 
         self.FunctAge()
         self.launched()
